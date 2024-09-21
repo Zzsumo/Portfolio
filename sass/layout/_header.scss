@@ -1,0 +1,14 @@
+header {
+  background-color: black;
+  .div_1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+    .fdt {
+      color: aliceblue;
+      margin: 10px auto;
+      font-size: small;
+    }
+  }
+}
